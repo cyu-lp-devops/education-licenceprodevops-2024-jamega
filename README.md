@@ -32,27 +32,20 @@ Navigate to the project directory:
 
 ```bash
 cd password-generator
+```
 
 Run the main script main.py or directly the file containing the Generateur class:
 
-bash
-Copier le code
+```bash
 python main.py
+```
 A graphical window will open with several options to configure the desired password:
 
 Select the number of characters.
 Check the boxes to include lowercase letters, uppercase letters, numbers, special characters, or enter your own custom characters.
 Click "Generate" to create a password.
 You can then click "Copy to clipboard" to copy the generated password to the clipboard.
+
 Author
-AMEGA Jérémie - Your GitHub
-
-markdown
-Copier le code
-
-### Instructions supplémentaires :
-- **Update GitHub Link**: Replace `[Your GitHub](https://github.com/your-username)` with your actual GitHub URL.
-- **Folder Name**: Adjust the project directory name in the `cd` command to match your project's folder name if it's different.
-
-This README provides users with clear instructions in English on how to understand, install, and use your password generator application.
+AMEGA Jérémie - https://github.com/Jamega95/
 
